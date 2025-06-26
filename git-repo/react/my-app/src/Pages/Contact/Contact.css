@@ -1,0 +1,14 @@
+.contact_content {
+    color: rgb(255, 251, 254);
+    max-width: 800px;
+  }
+  .contact_content h1 {
+    font-size: 2.5rem;
+  }
+  
+  .contact_img {
+    height: 700px;
+    object-fit: cover;
+    
+  }
+  
